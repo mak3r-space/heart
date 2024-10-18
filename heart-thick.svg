@@ -1,0 +1,59 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1200px"
+  height="700px"
+  viewBox="0 0 1200 700"
+  stroke="red"
+  fill="none"
+>
+  <path
+    transform="translate(600 200) scale(11.4 8.2)"
+    d="M 0,0c 0,-30 -50,-30 -50,0c 0,30 50,35 50,60c 0,-25 50,-30 50,-60c 0,-30 -50,-30 -50,0z"
+    stroke-width="0.1"
+  />
+  <path
+    transform="translate(600 220) scale(10.4 7.4)"
+    d="M 0,0c 0,-30 -50,-30 -50,0c 0,30 50,35 50,60c 0,-25 50,-30 50,-60c 0,-30 -50,-30 -50,0z"
+    stroke-width="0.1"
+  />
+  <path
+    transform="translate(600 240) scale(9.4 6.6)"
+    d="M 0,0c 0,-30 -50,-30 -50,0c 0,30 50,35 50,60c 0,-25 50,-30 50,-60c 0,-30 -50,-30 -50,0z"
+    stroke-width="0.1"
+  />
+  <path
+    transform="translate(600 260) scale(8.4 5.8)"
+    d="M 0,0c 0,-30 -50,-30 -50,0c 0,30 50,35 50,60c 0,-25 50,-30 50,-60c 0,-30 -50,-30 -50,0z"
+    stroke-width="0.2"
+  />
+  <path
+    transform="translate(600 280) scale(7.4 5.0)"
+    d="M 0,0c 0,-30 -50,-30 -50,0c 0,30 50,35 50,60c 0,-25 50,-30 50,-60c 0,-30 -50,-30 -50,0z"
+    stroke-width="0.2"
+  />
+  <path
+    transform="translate(600 300) scale(6.4 4.2)"
+    d="M 0,0c 0,-30 -50,-30 -50,0c 0,30 50,35 50,60c 0,-25 50,-30 50,-60c 0,-30 -50,-30 -50,0z"
+    stroke-width="0.3"
+  />
+  <path
+    transform="translate(600 320) scale(5.4 3.6)"
+    d="M 0,0c 0,-30 -50,-30 -50,0c 0,30 50,35 50,60c 0,-25 50,-30 50,-60c 0,-30 -50,-30 -50,0z"
+    stroke-width="0.3"
+  />
+  <path
+    transform="translate(600 340) scale(4.4 2.8)"
+    d="M 0,0c 0,-30 -50,-30 -50,0c 0,30 50,35 50,60c 0,-25 50,-30 50,-60c 0,-30 -50,-30 -50,0z"
+    stroke-width="0.4"
+  />
+  <path
+    transform="translate(600 360) scale(3.4 2.2)"
+    d="M 0,0c 0,-30 -50,-30 -50,0c 0,30 50,35 50,60c 0,-25 50,-30 50,-60c 0,-30 -50,-30 -50,0z"
+    stroke-width="0.4"
+  />
+  <path
+    transform="translate(600 375) scale(2.6 1.6)"
+    d="M 0,0c 0,-30 -50,-30 -50,0c 0,30 50,35 50,60c 0,-25 50,-30 50,-60c 0,-30 -50,-30 -50,0z"
+    stroke-width="0.5"
+  />
+</svg>
